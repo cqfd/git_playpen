@@ -1,2 +1,6 @@
 Sample repo to play around with while learning git. Clone it, fork it,
 mess around! Just reclone if you mess something up.
+
+Tip: I suggest you `brew install tree`; this gives you a command-line
+tool for pretty-printing a directory. This is helpful if you want to
+pretty-print the inside of your repo's .git/ directory.
