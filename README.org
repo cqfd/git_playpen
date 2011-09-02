@@ -21,3 +21,6 @@ http://progit.org/book/ch9-1.html
 * Working with Git locally
 
 ** Useful commands
+
+* Working with Git remotely
+Tracking branches. Remote refs. Using push/pull/fetch.
