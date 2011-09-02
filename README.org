@@ -1,0 +1,2 @@
+Sample repo to play around with while learning git. Clone it, fork it,
+mess around! Just reclone if you mess something up.
