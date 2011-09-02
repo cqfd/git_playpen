@@ -22,5 +22,27 @@ http://progit.org/book/ch9-1.html
 
 ** Useful commands
 
+*** git branch
+
+Have Git list all of your branches. Use `git branch -a` to show your
+remote branches in addition to your local branches.
+
+*** git checkout
+*** git add
+*** git reset
+*** git rebase
+
+*** git log --graph --decorate --pretty=oneline --abbrev-commit
+
+This will pretty-print a tree showing all of your repo's history that
+you can reach from your current branch.
+
+Tip: alias this command in your global .gitconfig to be `git
+tree`. Super useful.
+
+Also useful: `git tree --all`, which will pretty-print *all* of your
+branches. This is perfect for when you've got a bunch of branches and
+can't remember where you are.
+
 * Working with Git remotely
 Tracking branches. Remote refs. Using push/pull/fetch.
