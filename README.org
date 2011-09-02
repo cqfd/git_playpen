@@ -4,3 +4,16 @@ mess around! Just reclone if you mess something up.
 Tip: I suggest you `brew install tree`; this gives you a command-line
 tool for pretty-printing a directory. This is helpful if you want to
 pretty-print the inside of your repo's .git/ directory.
+
+* Git internals
+
+Git's underlying data model--what Git uses under the hood to do its
+magic--is actually really simple. If you want to get comfortable with
+Git, it really helps if you spend some time learning about Git's
+internals.
+
+** Resources
+
+http://eagain.net/articles/git-for-computer-scientists/
+
+http://progit.org/book/ch9-1.html
