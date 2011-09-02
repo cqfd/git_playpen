@@ -17,3 +17,7 @@ internals.
 http://eagain.net/articles/git-for-computer-scientists/
 
 http://progit.org/book/ch9-1.html
+
+* Working with Git locally
+
+** Useful commands
